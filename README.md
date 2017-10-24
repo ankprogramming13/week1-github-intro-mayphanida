@@ -123,7 +123,7 @@ function fancyAlert(arg) {
 | โรงเรียนพนมสารคาม "พนมอดุลวิทยา"      |   ม.1 - ม.3  |   2557   |
 | วิทยาลัยอาชีวศึกษาฉะเชิงเทรา      |   ปวช.1 - ปวช.3  |   2559   |
 
-[e-portfolio] (gg.gg/tangmay______)
+e-portfolio [คลิกที่นี่](www.gg.gg/tangmay______ "e-portfolio")
 
 
 **$$$$3**
