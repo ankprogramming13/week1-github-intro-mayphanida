@@ -125,14 +125,30 @@ function fancyAlert(arg) {
 
 e-portfolio [คลิกที่นี่](https://sites.google.com/site/phanidathaijamnong/khxmul-nakreiyn-naksuksa "e-portfolio")
 
+ขั้นตอนการทำไข่เจียว
+1. ตอกไข่ใส่ชามก้นลึก
+2. ปรุงรสตามใจชอบ
+3. ตีไข่ให้เข้ากัน
+4. ตั้งกระทะให้ร้อน
+5. ใส่น้ำมัน รอน้ำมันร้อน
+6. เทไข่ใส่ลงไปในกะทะ
+7. รอพลิกด้านไข่ให้สุก
+8. ตักใส่จาน
+เป็นอันเส็จเรียบร้อย ทานให้อร่อยนะคะคุณครู
+
+ส่วนรูปเอารูปอื่นก่อนนะคะอาจารย์ที่หอไม่มีเตาแก๊ส 
+![รูปภาพ](https://33d71b1e-a-62cb3a1a-s-sites.googlegroups.com/site/phanidathaijamnong/home/20247939_468807400155004_2446256637410658181_o.jpg?attachauth=ANoY7cp3HDwuwVIM84XFZaoUeis5E41cmDljGme48ho9yznym8kj4iFlgB4eE7CDYVJMVyMQt_tOjpf8X32WDLm79tQH16I2WV8mv7d1iLrQ_veZ34z75t22phxENl3MdiH8KRPjO7x-cHIYSybZpF_uICewlGfCnzuvR3FKhDAo4t6V9nRRWcGDB_XmL79Ls_Fsshhq05fVkEwmSvE4zC6ZYGqVBVQZqHXIDXUoZs9KsEf1gtmB4RoEJVm-_vcq4Vw-450l9vxGFtQq9xsvVVdWhfwP1CrQwg%3D%3D&attredirects=0)
+
+- [x] รู้เพราะลิงค์คู่มือเลยค่ะ มีประโยชน์มาก
+- [ ] ไม่รู้
 
 **$$$$3**
 
 ### ตอบคำถามท้ายการทดลอง
 
-1. เว็บไซต์ที่ใช้งาน ชื่อ **$4    4$**
-2. ไฟล์ประเภท markdown มีนามสกุลไฟล์ คือ **$5   5$**
-3. การเขียน markdown มีข้อดีคือ **$6   6$** 
+1. เว็บไซต์ที่ใช้งาน ชื่อ **$4  github  4$**
+2. ไฟล์ประเภท markdown มีนามสกุลไฟล์ คือ **$5 .md 5$**
+3. การเขียน markdown มีข้อดีคือ **$6 ได้เขียนแบบแปลกใหม่ 6$** 
 4. หากให้นักศึกษาอ่านไฟล์ markdown โดยไม่ต้องผ่านเว็บ นักเรียนจะอ่านรู้เรื่องหรือไม่ 
 
 **$$7** 
