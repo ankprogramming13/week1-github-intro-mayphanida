@@ -162,5 +162,6 @@ e-portfolio [คลิกที่นี่](https://sites.google.com/site/phani
 
 **$$$$8**
 
+ได้เรียนรู้การเขียน markdown ที่พัฒนาเพื่อใช้งานบนเว็ปไซต์ของ Github  ในการเขียน Github Markdown เราจะต้องบันทึกไฟล์เป็นนามสกุล .md
 
 **$$$$8**
